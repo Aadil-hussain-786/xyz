@@ -96,7 +96,7 @@ export const testimonials = [
     quote:
       "Collaborating with Aadil was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Aadil's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Aadil is the ideal partner.",
     name: "Jaydeep MK",
-    title: "BTech CSE , SSIPMT",
+    title: "",
   },
   {
     quote:
@@ -109,7 +109,7 @@ export const testimonials = [
     quote:
       "Aadil is an outstanding backend developer with a specialty in Flask who brings unparalleled expertise and efficiency to server-side development. They design robust, scalable architectures and write clean, maintainable code that ensures applications run smoothly and securely",
     name: "Mohnish Dubey",
-    title: "BTech , SSIPMT",
+    title: "",
   },
   
 ];
