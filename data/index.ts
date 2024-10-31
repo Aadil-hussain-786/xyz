@@ -76,7 +76,7 @@ export const projects = [
     id: 1,
     title: "Interception Tool",
     des: "A CyberSecurity tool for captures and analyze network traffic, aiding in panetration testing",
-    img: "./public/intercept.PNG",
+    img: "/intercept.PNG",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/https://github.com/Aadil-hussain-786/Intercept-tool",
   },
