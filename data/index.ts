@@ -57,7 +57,7 @@ export const gridItems = [
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    spareImg: "/adversarial.png",
+    spareImg: "/adversarial.PNG",
   },
   {
     id: 6,
@@ -76,7 +76,7 @@ export const projects = [
     id: 1,
     title: "Interception Tool",
     des: "A CyberSecurity tool for captures and analyze network traffic, aiding in panetration testing",
-    img: "/intercept.png",
+    img: "./public/intercept.PNG",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/https://github.com/Aadil-hussain-786/Intercept-tool",
   },
