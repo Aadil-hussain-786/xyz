@@ -38,3 +38,7 @@ export default withSentryConfig(nextConfig, {
     // https://vercel.com/docs/cron-jobs
     automaticVercelMonitors: true,
 });
+
+module.exports = {
+  output: 'standalone', // Useful for Vercel hosting
+};
